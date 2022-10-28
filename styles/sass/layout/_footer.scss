@@ -1,0 +1,13 @@
+@import '../abstract/variables.scss';
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: white;
+    color: $third-color;
+    font-size: 1rem;
+    border-top: 2px solid $third-color;
+    i {
+        color: red;
+    }
+}

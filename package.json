@@ -1,0 +1,15 @@
+{
+  "name": "curso_sass_01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass styles/sass/:styles/css -w --style=compressed --source-map"
+
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.55.0"
+  }
+}

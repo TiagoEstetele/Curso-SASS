@@ -1,0 +1,19 @@
+@import '../abstract/variables.scss';
+
+#curiosidades {
+    padding: 1rem;
+    text-align: center;
+    margin: 5px;
+    h3{
+        color: $third-color;
+        font-size: 1.5rem;
+    }
+    h4{
+        color: $third-color;
+        font-size: 1rem;
+    }
+    p{
+        margin-top: 5px;
+        color: $third-color;
+    }
+}
